@@ -1,6 +1,6 @@
-Here’s the **`README.md`** file:
 
-````markdown
+
+
 # CRUD API with Spring Boot
 
 This project is a simple CRUD API built with Spring Boot, demonstrating basic REST operations for managing users.
@@ -33,7 +33,7 @@ This project is a simple CRUD API built with Spring Boot, demonstrating basic RE
    ```bash
    git clone <repository_url>
    ```
-````
+
 
 2. Navigate to the project directory:
    ```bash
@@ -84,6 +84,3 @@ This project is a simple CRUD API built with Spring Boot, demonstrating basic RE
 
 This project is open-source and available for modification and distribution.
 
-```
-
-```
